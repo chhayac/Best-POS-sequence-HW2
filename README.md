@@ -44,4 +44,4 @@ Program can be run from command line as:
 
 python <viterbi_matrix.py> 
   
-where viterbi_matrix.py is the name of the python program. The output represents viterbi decoding matrix along with the output of the tagger.
+where viterbi_matrix.py is the name of the python program. The output represents viterbi decoding matrix with values for the input sentence and output of the tagger.
