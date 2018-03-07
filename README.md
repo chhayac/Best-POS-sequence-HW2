@@ -42,6 +42,6 @@ Calculate the values for the sentence "learning changes throughly" along with th
 
 Program can be run from command line as: 
 
-__python <viterbi_matrix.py> 
+python <viterbi_matrix.py> 
   
 where viterbi_matrix.py is the name of the python program. The output represents viterbi decoding matrix along with the output of the tagger.
