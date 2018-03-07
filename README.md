@@ -21,13 +21,21 @@ P(changes|N) = 0.003
 
 Transition probabilities are as follows:
 P(Noun|Start) = 0.2
+
 P(Verb|Start) = 0.3
+
 P(Noun|Noun) = 0.1
+
 P(Verb|Verb) = 0.1
+
 P(Adverb|Noun) = 0.1
+
 P(Verb|Noun) = 0.3
+
 P(Noun|Verb) = 0.4
+
 P(Adverb|Verb) = 0.4
+
 P(End|Adverb) = 0.1
 
 Calculate the values for the sentence "learning changes throughly" along with the Output of the tagger.
